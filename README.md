@@ -1,10 +1,11 @@
 *Make sure you are runninng ollama mistral on your computer's terminal as well as running this notebook from Jupyter Notebooks*
 *The used csv's are NBA_Players.csv and TeamPerGame.csv
 
-Basketball Analysis Toolkit
+**Basketball Analysis Toolkit**
 This toolkit is designed to provide comprehensive analysis for basketball players and teams through interactive spider plots. It leverages data to compare performance across various metrics and generates advice for improvement or strategy adjustment.
 
-Features
+**
+Features**
 Player Analysis: Compare two players based on performance metrics such as usage percentage, win shares, and more.
 Team Analysis: Compare two teams based on game performance metrics like points per game, turnovers per game, etc.
 Advice Generation: Offers strategic advice based on the analysis to improve performance or exploit opponents' weaknesses.
